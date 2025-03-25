@@ -1,16 +1,14 @@
 #!/bin/bash
-SRC=""
-DEST=""
+SRC="/Users/eshaandua/obsidian/Algorithms/"
+DEST="/Users/eshaandua/obsidian-algorithms/"
 
-# Sync files from the source to destination
-rsync -av --delete "$SRC" "$DEST"
+# Sync files from the source to destination, excluding unwanted folders
+rsync -av --exclude=".obsidian" --exclude=".git" "$SRC" "$DEST"
 
-# Navigate to the destination directory 
+# Navigate to the destination directory
 cd "$DEST" || exit
 
-# Stage all changes
-git add .
-
-git commit -m "Automated sync update: $(date +'%Y-%m-%d %H:%M:%S')"
-
-git push origin main
+# Stage all changes and commit
+/usr/bin/git add .
+/usr/bin/git commit -m "Automated sync update: $(date +'%Y-%m-%d %H:%M:%S')"
+/usr/bin/git push origin main

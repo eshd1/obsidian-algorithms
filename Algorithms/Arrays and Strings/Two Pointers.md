@@ -61,12 +61,68 @@ class Solution:
 
 - Like the previous example this algorithm also uses O(1) space and has a time complexity of O(n). 
 
+**Another Way to use Two Pointers**
+- This method is applicable when the problem has two iterables in the input, for example two arrays. 
+	- **Move along both inputs simultaneously until all elements have been checked.**
 
+**Pseudocode**
+
+```python
+function fn(arr1, arr2):
+    i = j = 0
+    while i < arr1.length AND j < arr2.length:
+        Do some logic here depending on the problem
+        Do some more logic here to decide on one of the following:
+            1. i++
+            2. j++
+            3. Both i++ and j++
+
+    // Step 4: make sure both iterables are exhausted
+    // Note that only one of these loops would run
+    while i < arr1.length:
+        Do some logic here depending on the problem
+        i++
+
+    while j < arr2.length:
+        Do some logic here depending on the problem
+        j++
+```
+
+- This code will have a big O time of O(n+m). 
+
+**Example 3**
+Given two **sorted** integer arrays arr1 and arr2, return a new array that combines both of them and is also sorted. 
+
+```python
+class Solution: 
+	def combine(arr1, arr2): 
+		res = []
+		i = j = 0
+		while i < len(arr1) and j < arr2.length: 
+			if arr1[i] < arr2[j]: 
+				res.append(arr1[i])
+				i+=1
+			else: 
+				res.append(arr2[j])
+				j+=1
+
+		while i < len(arr1): 
+			res.append(arr1[i])
+			i+=1
+		while j < len(arr2): 
+			res.append(arr2[j])
+			j +=1
+		return res 
+			
+```
 
 
 **Leetcode Questions for Practice**
 	- [[LC 9 - Palindrome Number - Easy]]
 	- [[LC 125 - Valid Palindrome - Easy]]
-	-  [[LC 344 - Reverse String - Easy]]
+	- [[LC 344 - Reverse String - Easy]]
+	- [[LC 392 - Is Subsequence - Easy]]
+	- [[LC 977  - Squares of a Sorted Array - Easy]]
+
 
 

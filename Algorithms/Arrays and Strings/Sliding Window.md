@@ -119,3 +119,5 @@ def find_best_subarray(nums, k):
 - [[LC 487 - Max Consecutive Ones II - Medium]]
 - [[LC 485 - Max Consecutive Ones - Easy]]
 - [[LC 2302 - Count Subarrays With Score Less Than K - Hard]]
+- [[LC 3 - Longest Substring Without Repeating Characters - Medium]]
+- [[LC 3258 - Count Substrings That Satisfy K-Constraint I - Easy]]

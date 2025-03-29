@@ -17,4 +17,4 @@ class Solution:
 		return ans
 ```
 
-- As we can see we have the same format for sliding window, but instead we check the condition 
+- As we can see we have the same format for sliding window, but instead we check the condition `current * (right - left + 1)`. And then the answer is += right - left + 1 to count the number of subarrays. 

@@ -123,6 +123,13 @@ class Solution:
 	- [[LC 344 - Reverse String - Easy]]
 	- [[LC 392 - Is Subsequence - Easy]]
 	- [[LC 977  - Squares of a Sorted Array - Easy]]
+	- [[LC 75 - Sort Colors - Medium]]
+	- [[LC 151 - Reverse Words in a String - Medium]]
+	- [[LC 971 - Reverse Only Letters - Easy]]
+	- [[LC 283 - Move Zeroes - Easy]]
+	- [[LC 2540 - Minimum Common Value - Easy]]
+
+
 
 
 

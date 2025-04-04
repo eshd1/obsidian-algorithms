@@ -1,3 +1,4 @@
+
 - **Sliding Window** is another common approach to solving problems related to arrays. A sliding window is actually implemented using [[Two Pointers]]. However, this topic is heavily dependent on **subarrays**. 
 	- Given an array a subarray is a contiguous section of the array.
 - A subarray can be defined by two indices, the start and the end. Lets call the starting index the left bound and ending index the right bound. Another name for the subarray in this context is **window**. 
@@ -121,3 +122,5 @@ def find_best_subarray(nums, k):
 - [[LC 2302 - Count Subarrays With Score Less Than K - Hard]]
 - [[LC 3 - Longest Substring Without Repeating Characters - Medium]]
 - [[LC 3258 - Count Substrings That Satisfy K-Constraint I - Easy]]
+- [[LC 209 - Minimum Size Subarray Sum - Medium]]
+- [[LC 1208 - Get Equal Substrings Within Budget - Medium]]

@@ -6,7 +6,7 @@
 - With arrays, we **map** indices to values. With hash maps, we map **keys** to values, and a key can be almost anything. Typically, the only constraint on a hash map's key is that it has to be **immutable** (this is language dependent but generally a good rule of thumb). Values can be anything.
 
 **Runtime comparison with Arrays**
-- In terms of time complexity, hash maps blow arrays out of the water. The following operations are all O(1)O(1) for a hash map:
+- In terms of time complexity, hash maps blow arrays out of the water. The following operations are all O(1) for a hash map:
 	- Add an element and associate it with a value
 	- Delete an element if it exists
 	- Check if an element exists
@@ -120,7 +120,28 @@ class Solution:
 - [[LC 1941 - Check if All Characters Have Equal Number of Occurrences - Easy]]
 - [[LC 560 - Subarray Sum Equals K - Medium]]
 - [[LC 1248 - Count Number of Nice Subarrays - Medium]]
-- [[LC 525 - Contiguous Array - Medium]]
+- [[LC 49 - Group Anagrams - Medium]]
+- [[LC 2216 - Minimum Consecutive Cards to Pick Up - Medium]]
+- [[LC 2342 - Max Sum of a Pair With Equal Sum of Digits - Medium]]
+- [[LC 383 - Ransom Note - Easy]]
+- [[LC 771 - Jewels and Stones - Easy]]
+- [[LC 1436 - Destination City - Easy]]
+- [[LC 3005 - Count Elements With Maximum Frequency - Easy]]
+- [[LC 1394 - Find Lucky Integer in an Array - Easy]]
+- [[LC 1207 - Unique Number of Occurrences - Easy]]
+- [[LC 451 - Sort Characters By Frequency - Medium]]
+- [[LC 1636 - Sort Array by Increasing Frequency - Easy]]
+- [[LC 930 - Binary Subarrays with Sums - Medium]]
+- [[LC 2958 - Length of Longest Subarray With at Most K Frequency - Medium]]
+- [[LC 290 - Word Pattern - Easy]]
+- [[LC 205 - Isomorphic Strings - Easy]]
+- [[LC 890 - Find and Replace Pattern - Medium]]
+
+
+
+
+
+
 
 
 

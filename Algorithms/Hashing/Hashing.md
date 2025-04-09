@@ -136,6 +136,14 @@ class Solution:
 - [[LC 290 - Word Pattern - Easy]]
 - [[LC 205 - Isomorphic Strings - Easy]]
 - [[LC 890 - Find and Replace Pattern - Medium]]
+- [[LC 1657 - Determine if Two Strings Are Close - Medium]]
+- [[LC 567 - Permutation in String - Medium]]
+- [[LC 1512 - Number of Good Pairs - Easy]]
+- [[LC 2083 - Substrings that Begin and End With The Same Letter - Medium]]
+- [[LC 266 - Palindrome Permutation - Easy]]
+- [[LC 525 - Contiguous Array - Medium]]
+- [[LC 325 - Maximum Size Subarray Sum Equals k - Medium]]
+- [[LC 389 - Find the Difference - Easy]]
 
 
 

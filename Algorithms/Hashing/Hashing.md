@@ -144,7 +144,7 @@ class Solution:
 - [[LC 525 - Contiguous Array - Medium]]
 - [[LC 325 - Maximum Size Subarray Sum Equals k - Medium]]
 - [[LC 389 - Find the Difference - Easy]]
-
+- [[LC 500 - Keyboard Row - Easy]]
 
 
 

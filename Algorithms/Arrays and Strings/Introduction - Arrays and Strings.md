@@ -9,3 +9,11 @@
 | ------------------ | ---------------- | ---------------- | ----------------------- | ---------------------- | -------------------- | ------------- | -------------------------- |
 | Array/List         | O(1)             | O(1)             | O(n)                    | O(n)                   | O(1)                 | O(1)          | O(n)                       |
 | String (immutable) | O(n)             | O(n)             | O(n)                    | O(n)                   | O(n)                 | O(1)          | O(n)                       |
+
+**Problems to Practice**
+- [[LC 243 - Shortest Word Distance - Easy]]
+- [[LC 1150 - Check if a Number is Majority Element in a Sorted Array - Easy]]
+- [[LC 2506 - Count Pairs Of Similar Strings - Easy]]
+- [[LC 1200 - Minimum Absolute Difference - Easy]]
+
+

@@ -15,5 +15,8 @@
 - [[LC 1150 - Check if a Number is Majority Element in a Sorted Array - Easy]]
 - [[LC 2506 - Count Pairs Of Similar Strings - Easy]]
 - [[LC 1200 - Minimum Absolute Difference - Easy]]
-
+- [[LC 2465 - Number of Distinct Averages - Easy]]
+- [[LC 3194 - Minimum Average of Smallest and Largest Elements - Easy]]
+- [[LC 744 - Find Smallest Letter Greater Then Target - Easy]]
+- [[LC 2148 - Count Elements With Strictly Smaller and Greater Elements - Easy]]
 

@@ -1,4 +1,4 @@
-- This question is part of the [[Introduction - Arrays and Strings]] family
+- This question is part of the [[Algorithms/Arrays and Strings/Introduction - Arrays and Strings]] family
 
 ```python
 class Solution:

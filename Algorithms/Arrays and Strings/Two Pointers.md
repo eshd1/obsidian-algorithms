@@ -128,6 +128,7 @@ class Solution:
 	- [[LC 971 - Reverse Only Letters - Easy]]
 	- [[LC 283 - Move Zeroes - Easy]]
 	- [[LC 2540 - Minimum Common Value - Easy]]
+	- [[LC 633 - Sum of Square Numbers - Medium]]
 
 
 

@@ -146,7 +146,9 @@ class Solution:
 - [[LC 389 - Find the Difference - Easy]]
 - [[LC 500 - Keyboard Row - Easy]]
 - [[LC 202 - Happy Number - Easy]]
-- 
+- [[LC 884 - Uncommon Words from Two Sentences - Easy]]
+- [[LC 2085 - Count Common Words With One Occurrence  - Easy]]
+
 
 
 

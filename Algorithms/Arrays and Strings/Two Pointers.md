@@ -129,6 +129,9 @@ class Solution:
 	- [[LC 283 - Move Zeroes - Easy]]
 	- [[LC 2540 - Minimum Common Value - Easy]]
 	- [[LC 633 - Sum of Square Numbers - Medium]]
+	- [[LC 168 - Two Sum II - Input Array Is Sorted]]
+	- [[LC 1099 - Two Sum less then k  - Easy]]
+	- [[LC 186 - Reverse Words in a String II - Medium]]
 
 
 
